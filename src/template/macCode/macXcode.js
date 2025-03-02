@@ -112,7 +112,7 @@ XCode style (c) Angel Garcia <angelgarcia.mail@gmail.com>
 #nice .custom:before {
   content: '';
   display:block;
-  background: url(https://my-wechat.mdnice.com/point.png);
+  background: url(https://markdown2html-one.vercel.app/macdot.svg);
   height: 30px;
   width: 100%;
   background-size:40px;
